@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently co-developing **Legal Ease (Mobile App)**
 
-- 🌱 I’m currently learning **Python, Sql, Linux and Cloud Computing**
+- 🌱 I’m currently learning **Dart, Flutter, Python, Sql, Linux and Cloud Technologies**
 
 - 📫 How to reach me **panis.nerwin.eccbscs@gmail.com**
  
