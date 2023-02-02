@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nerwin Panis</h1>
 <h3 align="center">Aspiring Data Engineer/Data Architect</h3>
 
-- 🔭 I’m currently co-developing on **Legal Ease (Mobile App)**
+- 🔭 I’m currently co-developing **Legal Ease (Mobile App)**
 
 - 🌱 I’m currently learning **Python, Sql, Linux, Databases and Cloud**
 
