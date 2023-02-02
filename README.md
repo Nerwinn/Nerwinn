@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.facebook.com/nerwin.panis.9)
 <h1 align="center">Hi 👋, I'm Nerwin Panis</h1>
 <h3 align="center">Aspiring Data Engineer/Data Architect</h3>
-<img align = "right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently co-developing on **Legal Ease (Mobile App)**
 
